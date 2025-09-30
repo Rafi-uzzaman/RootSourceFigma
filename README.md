@@ -2,32 +2,10 @@
 
 ![RootSource Logo](https://raw.githubusercontent.com/Rafi-uzzaman/RootSource/main/assets/logo.png)
 
+# RootSource 🌱
 ### *The World's First NASA-Powered Agricultural Exploration Game*
 
-[![NASA Space Apps Cha       P --> Q{🌍 Dat    U --> V[🧠 AI Analysis Engine]
-    V --> W{🎙️ Voice Interface Active?}
-    
-    W -->|Yes| X[🗣️ Speech Recognition<br/>40+ Languages]
-    W -->|No| Y[📱 Touch Interface<br/>Mobile Optimized]
-    
-    X --> Z[🤖 Groq LLaMA 3.1 8B<br/>Agricultural AI Response]
-    Y --> AA[🎮 Game Mechanics<br/>Farm Management]
-    
-    Z --> BB[🔊 Audio Response<br/>Multilingual Output]
-    AA --> CC[📈 Game Progress<br/>Level Advancement]
-    
-    BB --> DD[🎭 Character Animation<br/>Response & Guidance]
-    CC --> DD
-    
-    DD --> EE[💾 Local Session Save<br/>Progress Tracking]tion}
-    
-    Q -->|Soil Data| R[🌊 SMAP API<br/>Level-3/4 Soil Moisture]
-    Q -->|Weather Data| S[🌧️ GPM IMERG<br/>Precipitation Analytics]
-    Q -->|Crop Data| T[🌱 MODIS NDVI<br/>Vegetation Monitoring]
-    
-    R --> U[📊 Real-time Data Processing]
-    S --> U
-    T --> U🛰️ NASA API Connection]enge 2025](https://img.shields.io/badge/NASA%20Space%20Apps-2025-blue.svg?style=for-the-badge&logo=nasa)](https://www.spaceappschallenge.org/2025/challenges/nasa-farm-navigators-using-nasa-data-exploration-in-agriculture/)
+[![NASA Space Apps Challenge 2025](https://img.shields.io/badge/NASA%20Space%20Apps-2025-blue.svg?style=for-the-badge&logo=nasa)](https://www.spaceappschallenge.org/2025/challenges/nasa-farm-navigators-using-nasa-data-exploration-in-agriculture/)
 [![Figma Design](https://img.shields.io/badge/Figma-Design-purple.svg?style=for-the-badge&logo=figma)](https://www.figma.com/design/UFxkbSyTjdqsrhprPTPLa6/RootSource)
 [![AI Assistant](https://img.shields.io/badge/AI%20Assistant-Integrated-green.svg?style=for-the-badge&logo=openai)](https://github.com/Rafi-uzzaman/RootSource)
 [![Competition Ready](https://img.shields.io/badge/🎯%20Competition-Ready%20to%20Win-gold.svg?style=for-the-badge)](#awards)
@@ -238,33 +216,33 @@ graph TD
     
     K -->|All Levels| L[👨‍🚀👩‍🚀 Your Chosen NASA Mentor Guide]
     
-    J --> O[🎮 Game Engine Initialization]
-    L --> O
-    F --> O
+    J --> M[🎮 Game Engine Initialization]
+    L --> M
+    F --> M
     
-    E --> G[🛰️ NASA API Connection]
-    F --> G
+    M --> N[🛰️ NASA API Connection]
     
-    G --> H{🌍 Data Source Selection}
+    N --> O{🌍 Data Source Selection}
     
-    H -->|Soil Data| I[🌊 SMAP API<br/>Level-3/4 Soil Moisture]
-    H -->|Weather Data| J[🌧️ GPM IMERG<br/>Precipitation Analytics]
-    H -->|Crop Data| K[🌱 MODIS NDVI<br/>Vegetation Monitoring]
+    O -->|Soil Data| P[🌊 SMAP API<br/>Level-3/4 Soil Moisture]
+    O -->|Weather Data| Q[🌧️ GPM IMERG<br/>Precipitation Analytics]
+    O -->|Crop Data| R[🌱 MODIS NDVI<br/>Vegetation Monitoring]
     
-    I --> L[📊 Real-time Data Processing]
-    J --> L
-    K --> L
+    P --> S[📊 Real-time Data Processing]
+    Q --> S
+    R --> S
     
-    L --> M[🧠 AI Analysis Engine]
-    M --> N{🎙️ Voice Interface Active?}
+    S --> T[🧠 AI Analysis Engine]
+    T --> U{🎙️ Voice Interface Active?}
     
-    N -->|Yes| O[🗣️ Speech Recognition<br/>40+ Languages]
-    N -->|No| P[📱 Touch Interface<br/>Mobile Optimized]
+    U -->|Yes| V[🗣️ Speech Recognition<br/>40+ Languages]
+    U -->|No| W[📱 Touch Interface<br/>Mobile Optimized]
     
-    O --> Q[🤖 Groq LLaMA 3.1 8B<br/>Agricultural AI Response]
-    P --> R[🎮 Game Mechanics<br/>Farm Management]
+    V --> X[🤖 Groq LLaMA 3.1 8B<br/>Agricultural AI Response]
+    W --> Y[🎮 Game Mechanics<br/>Farm Management]
     
-    Q --> S[🔊 Audio Response<br/>Multilingual Output]
+    X --> Z[🔊 Audio Response<br/>Multilingual Output]
+    Y --> AA[📈 Game Progress<br/>Level Advancement]
     R --> T[📈 Game Progress<br/>Level Advancement]
     
     S --> U[💾 Data Synchronization]
@@ -285,16 +263,16 @@ graph TD
     LL --> JJ
     MM --> JJ
     
-    JJ --> P
+    HH --> N
     
     style A fill:#e1f5fe
-    style P fill:#f3e5f5
-    style V fill:#e8f5e8
-    style Z fill:#fff3e0
-    style DD fill:#fce4ec
-    style EE fill:#e0f2f1
-    style GG fill:#fff9c4
-    style II fill:#f3e5f5
+    style N fill:#f3e5f5
+    style T fill:#e8f5e8
+    style X fill:#fff3e0
+    style BB fill:#fce4ec
+    style CC fill:#e0f2f1
+    style EE fill:#fff9c4
+    style GG fill:#f3e5f5
 ```
 
 ### **🔍 Flowchart Explanation**
