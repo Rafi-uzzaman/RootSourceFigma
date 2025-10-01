@@ -2,7 +2,6 @@
 
 ![RootSource Logo](https://raw.githubusercontent.com/Rafi-uzzaman/RootSource/main/assets/logo.png)
 
-# RootSource 🌱
 ### *The World's First NASA-Powered Agricultural Exploration Game*
 
 [![NASA Space Apps Challenge 2025](https://img.shields.io/badge/NASA%20Space%20Apps-2025-blue.svg?style=for-the-badge&logo=nasa)](https://www.spaceappschallenge.org/2025/challenges/nasa-farm-navigators-using-nasa-data-exploration-in-agriculture/)
@@ -125,7 +124,7 @@ const aiAssistant = {
   model: "Groq LLaMA 3.1 8B",
   backend: "FastAPI + Python",
   voice: "Web Speech API",
-  languages: 40,
+  languages: 50+,
   nasaAPIs: ["POWER", "MODIS", "LANDSAT", "GLDAS", "GRACE"],
   platforms: ["Mobile App", "Web Browser", "Progressive Web App"],
   features: [
